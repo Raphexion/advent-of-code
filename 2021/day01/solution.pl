@@ -1,9 +1,17 @@
 % -*- mode: Prolog -*-
+%
+% My very first prolog program ever :sunny:
+%
 % HOWTO:
 % swipl
 % ?- [solution].
 % count_larger_measurements(real, N).
 % N = 1655 .
+%
+% Help used:
+% https://www.swi-prolog.org/pldoc/man?section=quickstart
+% https://www.let.rug.nl/bos/lpn//lpnpage.php?pagetype=html&pageid=lpn-htmlse54
+% https://stackoverflow.com/questions/9875760/sum-of-elements-in-list-in-prolog
 
 input(empty, []).
 
